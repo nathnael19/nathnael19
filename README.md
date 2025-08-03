@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathnael19&label=Profile%20views&color=0e75b6&style=flat" alt="nathnael19" /> </p>
 
-- 🔭 I’m currently working on **Ruhama Choir Mezmur Lyrics**
+- 🔭 I’m currently working on **Ethio Fm Radio**
 
-- 🌱 I’m currently learning **Flutter, Full-Stack Web Development**
+- 🌱 I’m currently learning **Flutter, Full-Stack Web Development, Machine Learning**
 
 - 📫 How to reach me **nathnaelnigussie19@gmail.com**
 
