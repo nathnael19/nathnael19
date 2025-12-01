@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nathnael Nigussie</h1>
-<h3 align="center">Software Engineering Student | Mobile & Web Developer | Flutter Enthusiast | Machine Learning</h3>
+<h3 align="center">Software Engineering Student | Mobile & Web Developer | Flutter | Machine Learning | FastAPI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nathnael19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
